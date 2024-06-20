@@ -1,5 +1,5 @@
 # gramedia-generate-link
-Tools ini di gunakan untuk generate link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt)
+Tools ini di gunakan untuk otomatis klik button generate link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt)
 
 ### persiapan
 Sebelum menjalankan kodenya harus export dulu email dan password untuk login ke [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) nya
